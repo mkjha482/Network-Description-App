@@ -1,6 +1,6 @@
 This project was done in order to create an app that gives the user an overall idea of their device connectivity.
 It uses Java as its primary language and provides an interface to the user where the user has to provide a URL in this format.
-URL format example  --- >>   https://google.com      OR   http://www.google.com
+URL format example  --- >>   https://google.com      OR   http://www.google.com.
 The app will then provide the user with information about the device connectivity such as :
  1. Whether the device is connected to the internet or not
  2. If it is connected via 'mobile-data' or 'wi-fi'
